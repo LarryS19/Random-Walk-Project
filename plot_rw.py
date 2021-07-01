@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-from refactoring import RandomWalk
+from randomwalk import RandomWalk
 
 # Keep making new walk visualizations as long as the user wants to.
 while True:
